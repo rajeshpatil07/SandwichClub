@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "0",
+      "name": "Bacon sandwich",
+      "description": "A bacon sandwich (also known in parts of the United Kingdom and New Zealand as a bacon butty, bacon bap or bacon sarnie, in Ireland as a rasher sandwich[1] and as a bacon sanger in Australia) is a sandwich of cooked bacon between bread that is usually spread with butter, and may be seasoned with ketchup or brown sauce. It is generally served hot. In some establishments the sandwich will be made from bread toasted on only one side, while other establishments serve it on the same roll as is used for hamburgers.",
+      "filepath": "baconbutty.jpg"
+    },
+    {
+      "id": "1",
+      "name": "Bacon, egg and cheese sandwich",
+      "description": "A bacon, egg and cheese sandwich is a breakfast sandwich popular in the United States and Canada. The sandwich is typically made with bacon, eggs (typically fried or scrambled), cheese and bread, which may be buttered and toasted. Many similar sandwiches exist, substituting alternate meat products for the bacon or using different varieties of cheese or bread. The sandwich is often served as a breakfast item with coffee. BEC is sometimes used as an acronym for the sandwich,[1] as is BE&C",
+      "filepath": "baconegg.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Bagel toast",
+      "description": "Bagel toast (Hebrew: בייגל טוסט‎, romanized: Beygel Tost) is a sandwich commonly eaten in Israel. It is composed of a pressed, toasted bagel filled with vegetables and cheese and is grilled on a sandwich toaster or panini press. While the bagel is round with a hole in the center, it is unlike the typical American bagel in that it is made from a different dough[citation needed] with sesame seeds. Bagel toast is generally filled with tzfatit, feta, white, or yellow cheese, green olives, corn, tomatoes, onions, dressing, and pizza or chili sauce.",
+      "filepath": "bagel_toast.jpg"
+    }
+  ]
+}
